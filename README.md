@@ -1,5 +1,4 @@
-- 👋 Hi, I’m HOUND
-- 💞️ I’m looking to collaborate on nothing currently!
+she/her
 
 <!---
 HOUND1312/HOUND1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
